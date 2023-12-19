@@ -23,7 +23,7 @@ JPEG to TIFF Image Conversion
 ### Executing program
 
 * Run the program
-* Browse the JPEG file location
+* Browse the JPEG file location 
 * Click the "Submit" button
 * "TIFF" folder will created in the jpeg file directory
 * The jpeg file converted into TIFF file in the "TIFF" folder
