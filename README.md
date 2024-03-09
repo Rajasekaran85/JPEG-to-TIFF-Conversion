@@ -1,4 +1,4 @@
-# Project Title
+# Application Title
 
 JPEG to TIFF Image Conversion
 
