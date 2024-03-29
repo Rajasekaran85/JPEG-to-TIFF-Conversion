@@ -1,6 +1,6 @@
 # Application Title
 
-JPEG to TIFF Image Conversion
+JPEG to TIFF Image Conversion 
 
 ## Description
 
